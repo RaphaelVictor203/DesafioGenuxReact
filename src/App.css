@@ -31,3 +31,31 @@
     transform: rotate(360deg);
   }
 }
+
+.cont-site{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    padding-top: 3vmin;
+    padding-bottom: 3vmin;
+    background-color: #F8F8FF;
+}
+
+a{
+  color: black;
+  user-select: none;
+  text-decoration: none;
+  margin-top: 2.5vmin;
+  margin-bottom: 2.5vmin;
+}
+
+a:hover{
+  font-weight: bold;
+}
+
+img{
+  user-select: none;
+}

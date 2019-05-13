@@ -1,0 +1,15 @@
+.cont-painel{
+    width: 98%;
+    height: 20%;
+    text-align: center;
+    background-image: linear-gradient(to up, #1D6B91, #134860);   
+    background-color: #1D6B91; 
+    border-radius: 2px;
+}
+
+.p-painel{
+    font-size: 4vmin;
+    color: #FFFAFA;
+    user-select: none;
+}
+
